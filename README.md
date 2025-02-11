@@ -63,6 +63,9 @@ python scripts/preprocess.py
 - **PCA Scatter Plot:** Visualizes high-dimensional data in 2D.
 - **Word Cloud:** Displays frequently important words.
 
+### **TF-IDF Word Cloud**
+![TF-IDF Word Cloud](screenshot.png)
+
 ## 🛠 Future Improvements
 - Add Named Entity Recognition (NER)
 - Implement LDA-based topic modeling
@@ -80,7 +83,7 @@ Feel free to **fork** this repository, **create a new branch**, and submit a **p
 - Uses **NLTK, Scikit-Learn, Matplotlib, Seaborn, WordCloud**.
 
 ## 📬 Contact
-For questions or suggestions, open an **issue** or reach out via **[LinkedIn](https://linkedin.com/in/your-profile)**.
+For questions or suggestions, open an **issue** or reach out via **[LinkedIn](https://www.linkedin.com/in/irahulgaur)**.
 
 ---
 _If you found this project useful, consider giving it a ⭐ on GitHub!_ 🚀
